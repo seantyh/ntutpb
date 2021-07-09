@@ -1,0 +1,1 @@
+pandoc -s  -o syllabus.html --css mdstyle.css syllabus.md
